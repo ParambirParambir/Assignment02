@@ -1,11 +1,10 @@
 /* app.cs
-Students's name: Arshpreet Singh
-StudentID: 301174738
-Date: 22 October, 2021
+Students's name: Parambir Singh
+StudentID: 301175171
+Date: 12 Feb, 2021
 */
 
 
-/*-custom css--*/
 p{
     font-family: sans-serif; font-size: larger; font-weight: 700;
 }
@@ -13,7 +12,6 @@ ul{
     font-family: sans-serif; font-size: large; color: rgb(11, 11, 66);
 }
 
-/*designing of email and calling sysmbols*/
 .contactUsEmail{
     width: 7%; height: 7%; float: right; padding-right: 3%; padding-top: 2%;
 }

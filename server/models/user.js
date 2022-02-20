@@ -1,7 +1,7 @@
 /* user.js
-Students's name: Arshpreet Singh
-StudentID: 301174738
-Date: 22 October, 2021
+Students's name: Parambir Singh
+StudentID: 301175171
+Date: 12 Feb, 2021
 */
 
 
